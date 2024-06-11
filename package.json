@@ -1,0 +1,11 @@
+{
+  "name": "fsd-tools",
+  "version": "1.0.0",
+  "description": "CLI for generate fsd slice",
+  "main": "index.js",
+  "author": "Nikita Batyukhno <nikita@batyukhno-dev.ru>",
+  "license": "MIT",
+  "bin": {
+    "fsd-tools": "index.js"
+  }
+}
